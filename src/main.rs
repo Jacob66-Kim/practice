@@ -12,6 +12,7 @@ fn main() {
     print_number(3);
 
     add_numbers(3, 2);
+    // 주석
 
     println!("{:?}", circle_area(2.0));
 
